@@ -74,7 +74,7 @@
   
    <dt>Group manager function</dt>
    
-  <h>群組管理員帳戶只有特定權限，可開啟人員辨識和特定帳戶新增等管理權限。</h>
+  <h>The group administrator account has only specific permissions, which can enable management permissions such as personnel identification and specific account addition.</h>
   
   ![image](https://github.com/GuanLinHu/thematic-personnel-control-system/blob/4c029af309a3e890b27adfaba4daad67c6f552b6/Github%20picture/Group%20manager%20function%20menu.png)
   

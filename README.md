@@ -98,7 +98,7 @@
   ![image](https://github.com/GuanLinHu/thematic-personnel-control-system/blob/4c029af309a3e890b27adfaba4daad67c6f552b6/Github%20picture/Add%20group%20account%20function.png)
   
   # 感謝 grateful
-   >December 28, 2020 Yadong Institute of Technology(Present[Asia Eastern University of Science and Technology](https://www.aeust.edu.tw/)For the special exhibition, thank you instructor Professor Jiong San for his teaching and Jin Jie and Guan Lin's collaboration to complete this special topic.
+   >December 28, 2020 Yadong Institute of Technology(Present[Asia Eastern University of Science and Technology](https://www.aeust.edu.tw/))For the special exhibition, thank you instructor Professor Jiong San for his teaching and Jin Jie and Guan Lin's collaboration to complete this special topic.
    
    >The [Dayeh University](https://www.dyu.edu.tw/) Department of Asset Management will hold the 22nd Session of Electronic Enterprise Management Theory and Practice Seminar in 2021, which is included in the paper.
   </dl>
